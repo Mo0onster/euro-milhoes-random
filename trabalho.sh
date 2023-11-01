@@ -52,5 +52,4 @@ while true; do
         fi
 done
 }
-
 pergunta
